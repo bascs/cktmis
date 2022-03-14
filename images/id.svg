@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<!-- saved from url=(0027)https://mis.cktutas.edu.gh/ -->
+<html class="loaded" lang="en" data-textdirection="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+<meta name="description" content="CKT UTAS STUDENT MIS">
+<meta name="keywords" content="ckt cktutas utas student studentmis">
+<meta name="author" content="ICT DIRECTORATE">
+<title>CKT-UTAS|MIS Student</title>
+<link rel="apple-touch-icon" href="https://mis.cktutas.edu.gh/app-assets/images/ico/apple-icon-120.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://cktutas.edu.gh/wp-content/uploads/2020/08/favicon-32x32-1.png">
+<link href="./id_files/css" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="./id_files/vendors.min.css">
+<link rel="stylesheet" type="text/css" href="./id_files/icheck.css">
+<link rel="stylesheet" type="text/css" href="./id_files/custom.css">
+
+
+<link rel="stylesheet" type="text/css" href="./id_files/app.min.css">
+
+
+<link rel="stylesheet" type="text/css" href="./id_files/vertical-menu.min.css">
+<link rel="stylesheet" type="text/css" href="./id_files/palette-gradient.min.css">
+<link rel="stylesheet" type="text/css" href="./id_files/login-register.min.css">
+
+
+<link rel="stylesheet" type="text/css" href="./id_files/style.css">
+
+<script async="" src="./id_files/invisible.js.download"></script></head>
+<body class="vertical-layout 1-column blank-page blank-page pace-done menu-hide vertical-overlay-menu" data-open="click" data-menu="vertical-menu" data-col="1-column"><div class="pace  pace-inactive"><div class="pace-progress" data-progress-text="100%" data-progress="99" style="transform: translate3d(100%, 0px, 0px);">
+  <div class="pace-progress-inner"></div>
+</div>
+<div class="pace-activity"></div></div>
+
+<div class="app-content content">
+<div class="content-wrapper">
+<div class="content-header row">
+</div>
+<div class="content-body"><section class="flexbox-container">
+<div class="col-12 d-flex align-items-center justify-content-center">
+<div class="col-md-4 col-10 box-shadow-2 p-0">
+<div class="card border-grey border-lighten-3 m-0">
+<div class="card-header border-0">
+<div class="card-title text-center">
+<div class="p-1"><img style="width: 100px;height: 100px;" src="./id_files/logo.png" alt="branding logo"></div>
+<h4>CKT-UTAS STUDENT MIS</h4>
+<h5 class="text-danger">Default password: 12345</h5>
+</div>
+<h5 class="text-center m-0">Need help?, contact our ICT-Team on <a href="mailto:mis@cktutas.edu.gh">mis@cktutas.edu.gh</a></h5>
+</div>
+<div class="card-content">
+<div class="card-body">
+<form class="form-horizontal form-simple" action="https://mis.cktutas.edu.gh/" method="POST" novalidate="">
+<fieldset class="form-group position-relative has-icon-left mb-0">
+<input type="text" class="form-control form-control-lg input-lg" id="user-name" placeholder="Student ID" required="" name="studentid">
+<div class="form-control-position">
+<i class="ft-user"></i>
+</div>
+</fieldset>
+<fieldset class="form-group position-relative has-icon-left">
+ <input name="password" type="password" class="form-control form-control-lg input-lg" id="user-password" placeholder="Enter Password" required="">
+<div class="form-control-position">
+<i class="fa fa-key"></i>
+</div>
+</fieldset>
+<div class="form-group row">
+<div class="col-md-6 col-12 text-center text-md-left">
+
+</div>
+<div class="col-md-6 col-12 text-center text-md-right"><a href="https://mis.cktutas.edu.gh/recover.php" class="card-link">Forgot Password?</a></div>
+</div>
+<button type="submit" class="btn btn-info btn-lg btn-block"><i class="ft-unlock"></i> Login</button>
+</form>
+</div>
+</div>
+<div class="card-footer">
+<div class="">
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+
+
+<script src="./id_files/vendors.min.js.download" type="text/javascript"></script>
+
+
+<script src="./id_files/icheck.min.js.download" type="text/javascript"></script>
+<script src="./id_files/jqBootstrapValidation.js.download" type="text/javascript"></script>
+
+
+<script src="./id_files/app-menu.min.js.download" type="text/javascript"></script>
+<script src="./id_files/app.min.js.download" type="text/javascript"></script>
+
+
+<script src="./id_files/form-login-register.min.js.download" type="text/javascript"></script>
+
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'6e8ce421ace576d7',m:'4JMzj49.TheNS2jQwiaJ9.K1DkQK8dZYAkftzDB2Q7w-1646756352-0-AcZkqVAVc+Udkwnf11AHcmXwHHq1/31G25IYZMZUrlkziB/E66aBKuhmbNt1S8evMAJiA3mFD8JWUsRagbDZiGHOpqBj6iy5BQbAeE2aUBSiTonXgmTbqkCQjpc1FmK3FA==',s:[0xb2234ee9af,0xe361c51605],u:'/cdn-cgi/challenge-platform/h/g'}})();</script><script defer="" src="./id_files/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon="{&quot;rayId&quot;:&quot;6e8ce421ace576d7&quot;,&quot;version&quot;:&quot;2021.12.0&quot;,&quot;r&quot;:1,&quot;token&quot;:&quot;3bb4c366fc9b4e45ac5686dca0815601&quot;,&quot;si&quot;:100}" crossorigin="anonymous"></script>
+
+
+</body></html>
